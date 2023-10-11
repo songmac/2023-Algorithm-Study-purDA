@@ -10,9 +10,3 @@ else :
     pass # 그외 숫자는 패스1
 
 
-#실습 코드 
-#if n ==1 :
-#   print("A")
-#elif n == 2 : 
-# print("B")...
-
