@@ -8,6 +8,6 @@ c = int(input('정수 c를 입력하세요. : '))
 
 maximum = a
 if b > maximum : maximum = b
-if c > maximum : maximum = case
+if c > maximum : maximum = c
 
 print(f'최댓값은 {maximum}입니다.')
