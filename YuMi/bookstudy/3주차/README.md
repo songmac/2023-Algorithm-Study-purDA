@@ -20,4 +20,4 @@
 >> - key가 int인 경우 : capacity로 나눈 나머지를 해시값으로 함 <br/>
 >> - key가 int가 아닌 경우 : 표준 라이브러리도 형변환을 해야 해시값 얻음
 
-- ![image](https://github.com/yumioh/2023-Algorithm-Study-purDA/assets/38059057/02336018-dc3e-4df4-8fdf-d1e283618907)
+![image](https://github.com/yumioh/2023-Algorithm-Study-purDA/assets/38059057/02336018-dc3e-4df4-8fdf-d1e283618907)
