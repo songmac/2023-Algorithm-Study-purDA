@@ -11,7 +11,7 @@
     if a[2] > maximum: maximum = a[2]
     if a[3] > maximum: maximum = a[3]
 
-## 배열 a의 원소 중 최댓값을 구하는 max_of()함수를 정의하고, 최댓값을 구하는 과정
+배열 a의 원소 중 최댓값을 구하는 max_of()함수를 정의하고, 최댓값을 구하는 과정
     def max_of(a):
     for i in range(!, len(a)):
     if a[i] > maximum:
