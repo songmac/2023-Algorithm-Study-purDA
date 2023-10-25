@@ -14,7 +14,7 @@
     if a[2] > maximum: maximum = a[2]
     if a[3] > maximum: maximum = a[3]
 
-    1. 첫 번째 원소（a[이）의 값을 maximum에 대입
+    1. 첫 번째 원소 a[0]의 값을 maximum에 대입
     2. if 문을 실행하는 과정에서 필요에 따라 maximum을 업데이트(원소 수가 n이 
        면 if 문은 n - 1번 실행)
     3. maximum과 비교하거 나 maximum에 대입하는 원소의 인덱스는 1, 2, 3으로
